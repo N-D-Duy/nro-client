@@ -1,0 +1,290 @@
+|    $MOD NRO VERSION 214 BY VŨ ĐĂNG   
+**ĐỌC KĨ TRƯỚC KHI SỬ DỤNG VÌ KHÁ LÀ LẰNG TÀ LÀ NGOẰNG
+"_" là dấu cách nhé 
+X là giá trị muốn thay đổi. VD : 1,2,3,4...
+**
+**Vài Thứ Giới Thiệu =))
+- Pickmob(Tàn Sát) và Xmap của Mod được edit lại từ mã nguồn mở của Lã Minh Phúc anh em có thể tìm 
+trên Github hoặc kênh youtube Pk9r327 của chính ổng :v
+- Mình share mod này với mục đích chính là cho vui, ban đầu thì mình chỉ thẩm du 1 mình thôi nhưng
+sau khi thử share 1 vài lần được ae khen này nọ vui vcl nên mình làm cho nó xịn hơn để share tiếp =)) 
+- Ai chơi được thì chơi còn không chơi được thì thôi nhé đừng mất acc mất đồ xong đổ tại mình mệt lắm. 
+- Anh em hãy đọc kĩ HDSD để biết mod có những cái gì và tránh hỏi nhiều đcm nhiều khi mình cay ae vãi lon luôn ấy.
+- Thế nhé anh em chơi game vui vẻ !!
+**
+**Trick
+- Trước khi đổi server khác hãy xóa dữ liệu để tránh bị xung đột và lỗi
+- Chat loadskill để gán được skill như bình thường
+- Ấn vào dấu <<< ở thông báo boss để bay đến map boss =))
+- Ấn vào tên nhân vật khi hiển thị để bay vào chỗ nhân vật
+- Nếu muốn dừng khẩn cấp 1 chức năng nào đó mà ko chat được hãy giữ nút Q
+- Tele không cần mặc yardrat chỉ cần có trong hành trang 
+- Tìm kiếm bang hội kể cả khi đã có bang và tele đến thành viên trong đó
+- Vào thư mục Data và copy file Account nếu muốn bê đống acc từ bản cũ sang mới sau khi update
+**
+**Cách Update Phiên Bản Mới
+- Mở Update.exe lên ấn Update vì tải lại game từ đầu nên có thể sẽ lâu vcl. Sau đó sẽ có 1 thư mục mới
+tên Updated được tạo ra, trong đó sẽ có pass giải nén để giải nén file zip vừa tải.
+- Nếu không muốn nhập lại tài khoản từ đầu có thể vào thư mục Data ở bản cũ copy file Account sang bản mới
+**
+**Hướng Dẫn Sử Dụng
+- telexm : bật chat tiếng việt
+- speed_X : thay đổi tốc độ game
+- tdc_X : thay đổi tốc độ chạy
+**
+- anquai : ẩn quái
+- annguoi : ẩn người
+- anitem : ẩn item
+**
+- smpet_X : setup sức mạnh đệ tử 
+- aout : tắt game khi đệ đạt sức mạnh yêu cầu (smpet)
+**
+- add : add/xóa quái hoặc item đang trỏ vào/khỏi danh sách tàn sát
+- addd : add/xóa loại quái hoặc item đang trỏ vào/khỏi danh sách
+- anhatts : tự động nhặt vật phẩm của tàn sát
+- cnnts : cài đặt chỉ nhặt ngọc của tàn sát
+- itm : lọc vật phẩm chỉ nhặt vật phẩm của mình
+- slnX : cài đặt giới hạn số lần nhặt (mặc định 7)
+- sln : xem số lần nhặt giới hạn đang đặt
+- addiX: Thêm vào/Xoá khỏi danh sách chỉ tự động nhặt vật phẩm id X (X là id vật phẩm)
+- blocki (trỏ vào vật phẩm): Thêm vào/Xoá khỏi danh sách không tự động nhặt vật phẩm đang trỏ
+- blockiX: Thêm vào/Xoá khỏi danh sách không tự động nhặt vật phẩm id X
+- addtiX: Thêm vào/Xoá khỏi danh sách chỉ tự động nhặt loại vật phẩm id X(X là id loại vật phẩm)
+- blocktiX: Thêm vào/Xoá khỏi danh sách không tự động nhặt loại vật phẩm id X
+- clri: Cài đặt lại danh sách lọc vật phẩm vể mặc định (danh sách chỉ nhặt và danh sách chặn)
+- clrm : Xóa danh sách đánh quái
+- clrs : Cài đặt danh sách skill ts về mặc định
+- skill : thêm skill đang trỏ vào danh sách skill dùng để ts
+- skillX : thêm skill số X vào danh sách skill ts
+- ts : tàn sát   
+- nsq : né siêu quái
+- tlq : tele quái
+**
+- kmap : khóa map
+- kx_X : auto vào khu X 
+- k_X : đổi tới khu X
+- kk : khóa đổi khu 
+**
+- showhp : list nhân vật trong map
+- go_X ( X là nhân vật trong map ) : nhảy đến chỗ nhân vật trong map (bật showhp để xem số thứ tự nhân vật)
+**
+- atc : bật autochat 
+- atchattg : auto chat thế giới
+**
+- abf : buff đậu theo chỉ số sư phụ 
+- bhp_X : setup hp của sư phụ để buff đậu
+- bki_X : setup ki sư phụ
+- abfdt : buff đậu theo chỉ số đệ tử
+- bhpdt_X : setup hp của đệ tử để buff đậu
+- bki_X : setup ki đệ tử
+**
+- anz : auto nhặt xa
+- attnl : auto tái tạo năng lượng khi mất hp hoặc ki và tự chuyển về chiêu đấm
+- akok : up đệ hạn chế đánh kok 
+**
+- ak : tự động đánh
+- autopem : tự đánh khi đệ sủa
+**
+- acaptcha : âm báo captcha
+- ahoisinh : auto hồi sinh bằng ngọc 
+**
+- alogin : bật auto login khi bị out
+- akhu : về lại khu cũ khi login 
+**
+- cpu : đóng băng game đưa cpu về 0 khi tab hiện tại không phải là game
+- antk : ẩn tài khoản
+- npc_X : mở menu npc
+- skin : fake skin 
+- tuonglai : tới tương lai (đứng ở rbb nkm hoặc rdx)
+- neboss : auto đổi khu né boss
+- autoco : tự đổi cờ để không bị cắn trộm khi treo 
+- abdkd_X : auto vào bdkb (X là cấp độ bdkb) 
+- adoanhtrai : auto vào doanh trại 
+**
+- abt : auto bông tai (Trạng thái của đệ sau khi tách sẽ là trạng thái ae bấm vào trong bảng chức năng của game)
+**VD : chọn đệ là về nhà thì khi auto bông tai sẽ cho đệ về nhà
+- bt_X : delay auto bông tai với thời gian X (giây)
+**
+- getitem (trỏ vào item trong map) : lấy id item
+- sale_X1_X2 : bán item có id X1 với giá X2
+- banitem : bật auto bán item (nhớ setup sale_X1_X2 trước) 
+- buy_X1_x2 : mua item có id X1 với giá X2
+- muaitem : bật auto mua item  
+**
+- gmt_X : giữ mục tiêu nhân vật X trong map ( có thể bật hiển thị hp nhân vật để xem số thứ tự )
+- gmt : bỏ mục tiêu đang giữ
+**
+- xoamap : xóa địa hình
+- xbg : xóa background 
+- wall : thay wallpaper 
+**Có thể thay wall khác bằng cách lưu ảnh mình muốn vào file Wallpaper. Nhớ đổi tên ảnh thành 
+wallpaper và phải là định dạng PNG nhé.
+- gdl : Xóa đồ họa,tiết kiệm CPU,RAM giảm lag game(treo máy nên bật);
+**
+- akigui : auto kí gửi (yêu cầu: kí gửi trước 1 lần để lấy thông tin rồi mới chat lệnh)
+- anhatdt : Nhặt đồ đệ tử đánh rơi 
+- delay_X : delay tốc độ nhặt all và nhặt ngọc (X là miligiay) mặc định 500
+- anhat : auto nhặt all 
+- cnn : chỉ nhặt ngọc
+**
+- vang_X : fake vàng
+- ngoc_X : fake ngọc
+- id_X : fake id (X này gõ chữ cũng được)
+- sm_X : fake sức mạnh
+- tn_X : fake tiềm năng
+**
+- csb : Sử dụng capsule thường xmap
+- csdb : Sử dụng capsule đặc biệt xmap
+- goback : bật goback 
+**
+- autotl + trỏ vào nhân vật chỉ định : auto dịch chuyển tức thời nhân vật đang trỏ vào đến khi nó ăn ẩn danh thì dừng =))
+- atl : thêm nhân vật đang trỏ vào danh sách tele
+- atl_X ((X là id nhân vật trong khu (bật hiển thị hp nhân vật để xem id)) : thêm nvat có id X vào danh sách tele
+- rtl_X : xóa nhân vật id X trong ds tele khỏi ds tele 
+- ctl : xóa all nvat trong danh sách tele
+- tl_X : tele tới nvat có id X trong ds tele
+- ltl : xem ds tele
+- tlm : tự tele bản thân
+- ttl_X : auto tele tới nvat có id X trong ds tele (giữ Q 1-2 giây để hủy)
+**
+- admt : auto đổi mục tiêu
+- bossm : boss trong khu
+- pkm : những thằng đấm nhau được trong khu
+- ttnv : trạng thái nhân vật đang trỏ (bị trói, bị thôi miên hay gì gì đấy + soi thời gian)
+- sb : thông báo boss
+- locboss : lọc thông báo boss (chỉ những boss có tên chứa từ nhập trong qltk mới hiện lên thông báo
+tên boss cắt nhau bởi dấu , )
+- line : chỉ boss
+**
+- loadskill : tự xếp skill 
+- matketnoi : làm game mất kết nối (dùng khi lag mất skill hoặc ngứa tay thích mất kết nối)
+- nhaynhot : tự động nhảy lên để gọi đệ khi vào game
+**
+- ths_X : đổi quãng thời gian dùng hồi sinh
+- autohs : auto dùng hồi sinh vào bản thân auto không xịt (mặc định 45 giây dùng 1 lần) không phải namec 
+không cho bật nhé =))
+- autohsdt : sử dụng hồi sinh chỉ khi đệ chết hoặc hết ki
+**
+- minimap : bật mini map
+- tugd : tự động đồng ý và giao dịch có thể dùng khi đang treo 
+**
+- hpboss_X : setup hp ks boss
+- ksb : bật ks boss bằng đấm thường
+- ksbs5 : bật ks boss bằng skill5 (qckk hoặc laze hoặc nổ tùy hành tinh)
+- combo : auto combo tất cả các acc đang liên kết với qltk
+**
+- ngochs_X : setup số hồng ngọc được sử dụng để hồi sinh
+- ahs : auto hồi sinh với số ngọc được chỉ định là ngochs
+**VD : ngochs = 5 sẽ chỉ hồi sinh lại 5 lần
+**
+- u_X : khinh công
+- d_X : độn thổ
+- l_X : dịch trái
+- r_X : dịch phải
+- kvt : khóa vị trí
+**
+- xht : hiệu ứng hợp thể
+- chb : chỉ hiện boss
+- xtb : xóa tàu bay
+- atroi : auto trói bdkb (dùng khi up đệ hoặc up tnsm thì hết nước chấm :v)
+- phaup : auto ghim nhân vật (tự tele + nhảy đến chỗ nhân vật cần phá up)
+- checklag: checklag trắng skill khi lag tự mất kết nối
+- vdh : vượt địa hình 
+**
+- acctl : lấy id acc đang sử dụng và nhập vào tele trong qltk để tele
+- idtl : lấy id acc đang trỏ và nhập vào...........................
+**
+- lkqltk : liên kết với quản lí tài khoản để sử dụng chức năng
+- dapdo : auto đập đồ bật lên rồi vào pha lê hóa chọn đồ sau đó bấm vào đồ chọn số sao cần đập là xong
+- avang_X : auto bán/nhận vàng khi số vàng còn ít hơn X
+- nhanvang : bat tat auto nhan vang khi dapdo
+- npcvang_X : set up npc sẽ nhận vàng nếu không set up mặc định là bay về nhà nhận (_ là dấu cách, X là id npc)
+- banitem_X : bán item có id X khi hết vàng và không bật nhận vàng
+**Auto bán thỏi vàng khi hết vàng nên cân nhắc trước khi dùng. Giữ Q để reset đồ và add lại đồ
+**
+- goirong_X : gọi rồng X sao
+**Lưu ý : đây là ngọc rồng thường
+**
+- cskb : mở cskb nhanh
+- acskb : auto mở khi full x98 cskb
+- vutdo : auto vứt đồ (đồ phải cách nhau bởi dấu ",")
+**
+**Vào xem nội tại để chọn nội tại và chỉ số cần mở trước khi mở
+- mont : auto mở nội tại khi ra nội tại yêu cầu và chỉ số lớn hơn hoặc bằng chỉ số set up trước 
+(mở 3 lần bằng vàng và 1 lần bằng ngọc liên tục) (tự động bán thỏi vàng khi gần hết vàng)
+**
+- thuongde : auto quay vòng quay đặc biệt trên thần điện 
+- nrd : auto nhặt (nên dùng khi thời gian nhặt ngọc còn thấp để tránh lag)
+**
+- doall : dò khu boss từ 1 đến hết hoặc đến khi tìm được boss
+- do_(tên boss nào đấy ví dụ broly hoặc xên) : set boss cần dò 
+- clrz : set khu mặc định khi dò boss về 0
+- dk_X : set khu mặc định khi dò boss là X
+**
+- amd : auto đi mua đậu khi hết sạch
+- mbv_X : nhập nhanh mã bảo vệ X
+- nrd_X_Y : auto vào khu nrsd 
+**VD : map 1 sao khu 17 chat : nrd 1 17
+- adra : chỉ dành cho xd nhé - auto vào boss dra bom và auto nhận tđlt siêu mượt cứt =))
+- adoidt : auto đổi đệ tử (set up hành tinh kiểu xd nm td khi set up)
+**VD: Muốn đệ hành tinh xayda chỉ số hp > 2000, mp > 1000, sd > 30 sẽ phải setup : 2000 1000 30 xd
+**
+- nhapnro : auto nhập nro ném ngọc rồng vào bà hạt mít để nó tự nhập, giữ Q để dừng
+**Có thể dùng để ép đồ nhanh 
+- akiksp : auto giết super đến khi ra super sẽ thông báo bằng âm thanh ăn đậu hay đéo gì đấy không nhớ
+- akiksp1m : auto kik broly đến 1m hp sẽ giết
+- ansp : pst super còn 1 sẽ trói lại
+** Lưu ý : Nhân vật tự chạy để hạn chế ăn đấm vào mồm, nhớ là phải mặc set pst nhé =))
+**
+- daothuong : auto cho khỉ ăn đào thường bên nro rose
+- daochin : auto cho khỉ ăn đào chín
+**
+- aghsm : Auto Mở Giới Hạn Sức Mạnh (Mặc Định Mở Sư Phụ)
+- ghsmdt : chuyển đối tượng auto mở giới hạn sang đệ tử
+- gdnew : dùng trong sv tea để gd từ bản này (v214) với bản khác cao hơn (v222)
+**
+- ttsp : hiện thông tin sư phụ
+- ttdt : hiện thông tin đệ tử
+**
+- pem1hp : pem quái còn 1 hp
+- kill1hp : auto giết quái chỉ còn 1 hp
+** Lưu ý khi bật 1 trong 2 chức năng trên phải bật cả tàn sát (ts) vì đây chỉ là thêm tính năng vào tàn sát vốn có
+- tsnguoi : tàn sát người trong map
+**
+- music : bật/tắt chạy nhạc trong game
+**Đưa 1 file âm nhạc bất kì vào thư mục Music rồi đổi tên thành music định dạng mp3 (music.mp3) rồi vào game chat là ok
+**Phím tắt : 
+- M : mở menu một số chức năng chính
+- F : đổi khu nhanh 
+- N : tự động nhặt full
+- A : dịch trái
+- W : dịch phải
+- S : dịch xuống
+- D : dịch phải
+- G : Giao dịch với đối tượng đang trỏ
+- B : Dùng bông tai (Ưu tiên bt c2 nếu có)
+- J : Next map trái
+- K : Next map giữa
+- L : next map phải
+- I : Next map ở những nơi có cổng thẳng đứng (VD : cổng vực cấm-núi appule lên cổng núi appule-thung lũng rasphary bên nappa)
+- C : dùng capsule (ưu tiên csđb nếu có)
+- Z : ẩn/hiện giao diện mod 
+- T : bật tắt tđlt (tđlt chạy bằng ngọc nhé)
+- E : mở list friend
+- V : Chat tiếng việt
+- X : Xmap muốn hủy thì ấn lại lần nữa
+- O : mặc set đồ 1 hoặc 2
+- H : update khuu theo thời gian thực 
+- U : bật tắt ak
+- 0 : dịch chuyển tới nhân vật đang trỏ
+- 9 : Bật tắt liên kết qltk
+- Shift + D : đóng băng skill hiện tại
+- Shift + F : focus nhanh vào boss
+- Shift + C : combo dàn acc nhanh (td sẽ dctt kame, xd bom, nm laze)
+**
+**Liên kết bang hội :
+- lkpt : bật tắt liên kết
+- tele : acc nào bật liên kết sẽ tele acc chat
+- go_X : đưa acc liên kết đến map có id X trừ acc chat
+- k_X : đổi khu acc lk trừ acc chat
+- name_cb : check khu boss của acc có tên (name) đã liên kết

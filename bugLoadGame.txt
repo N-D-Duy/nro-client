@@ -1,0 +1,18 @@
+System.TypeLoadException: Could not load type 'System.Runtime.InteropServices.DefaultDllImportSearchPathsAttribute' from assembly 'System.Drawing'.
+  at (wrapper managed-to-native) System.MonoCustomAttrs:GetCustomAttributesInternal (System.Reflection.ICustomAttributeProvider,System.Type,bool)
+  at System.MonoCustomAttrs.GetCustomAttributesBase (ICustomAttributeProvider obj, System.Type attributeType) [0x00000] in <filename unknown>:0 
+  at System.MonoCustomAttrs.GetCustomAttributes (ICustomAttributeProvider obj, System.Type attributeType, Boolean inherit) [0x00000] in <filename unknown>:0 
+  at System.Reflection.Assembly.GetCustomAttributes (System.Type attributeType, Boolean inherit) [0x00000] in <filename unknown>:0 
+  at System.Resources.ResourceManager.GetNeutralResourcesLanguage (System.Reflection.Assembly a) [0x00000] in <filename unknown>:0 
+  at System.Resources.ResourceManager..ctor (System.String baseName, System.Reflection.Assembly assembly) [0x00000] in <filename unknown>:0 
+  at System.Drawing.SR..ctor () [0x00000] in <filename unknown>:0 
+  at System.Drawing.SR.GetLoader () [0x00000] in <filename unknown>:0 
+  at System.Drawing.SR.GetString (System.String name) [0x00000] in <filename unknown>:0 
+  at System.Drawing.SafeNativeMethods+Gdip.StatusException (Int32 status) [0x00000] in <filename unknown>:0 
+  at System.Drawing.Bitmap..ctor (Int32 width, Int32 height, PixelFormat format) [0x00000] in <filename unknown>:0 
+  at System.Drawing.Bitmap..ctor (Int32 width, Int32 height) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.Drawing.Bitmap:.ctor (int,int)
+  at <EHVNUnityObfuscator_InternalUseOnly>_<ĂÍỰụòẰẵẬẳẴ>.<EHVNUnityObfuscator_InternalUseOnly>_<ÝýÂổỤỚÝơệụ>.<EHVNUnityObfuscator_InternalUseOnly>_<ĐộÀẽỆỚỮựỡí> (System.String <EHVNUnityObfuscator_InternalUseOnly>_<ổàỴồÔỹẪÉỜế>, Int32 <EHVNUnityObfuscator_InternalUseOnly>_<áủÔỚÉẽẫẢèộ>, Int32 <EHVNUnityObfuscator_InternalUseOnly>_<ỰắỨỳếỡẠỏóấ>) [0x00000] in <filename unknown>:0 
+  at <EHVNUnityObfuscator_InternalUseOnly>_<ỸỏẺỢỴĐựỀẩỊ>.<EHVNUnityObfuscator_InternalUseOnly>_<ẲỜâịẤẾÀỨÒẮ>.<EHVNUnityObfuscator_InternalUseOnly>_<ẠởửÝỠỄệứỎẹ> (System.String <EHVNUnityObfuscator_InternalUseOnly>_<ỏĂÚưóìẪủđắ>, Int32 <EHVNUnityObfuscator_InternalUseOnly>_<óờỐộÍớÊŨỏớ>, Int32 <EHVNUnityObfuscator_InternalUseOnly>_<ỷữứÃàỒưỒịẰ>) [0x00000] in <filename unknown>:0 
+  at <EHVNUnityObfuscator_InternalUseOnly>_<ỸỏẺỢỴĐựỀẩỊ>.<EHVNUnityObfuscator_InternalUseOnly>_<ẲỜâịẤẾÀỨÒẮ>.<EHVNUnityObfuscator_InternalUseOnly>_<ỲẹỄđẸỈằẤỉắ> () [0x00000] in <filename unknown>:0 
+  at <EHVNUnityObfuscator_InternalUseOnly>_<ỸỏẺỢỴĐựỀẩỊ>.<EHVNUnityObfuscator_InternalUseOnly>_<ẲỜâịẤẾÀỨÒẮ>.<EHVNUnityObfuscator_InternalUseOnly>_<ƯờýựơìÉẩỞỀ> () [0x00000] in <filename unknown>:0 
